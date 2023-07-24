@@ -1,4 +1,5 @@
-from add,sub import *
+from add import *
+from sub import *
 
 num1=5
 num2=7
